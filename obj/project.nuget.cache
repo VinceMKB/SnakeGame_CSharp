@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n3V15TTYe2U2byTZ8H35/pctvNTEYiBEDlv78kFcMnUUxHNscomUfC8pejJbJU68KnWpffsy6A0Vpz5GetXNhw==",
+  "success": true,
+  "projectFilePath": "D:\\SnakeGame_CSharp\\SnakeGame_CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\Vincent\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
